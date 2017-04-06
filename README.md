@@ -1,12 +1,12 @@
 # reactReduxPlayground
 
-[![NPM version][npm-image]][npm-url]
+<!--[![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Dependency Status][daviddm-image]][daviddm-url]
 [![Code Coverage][coverage-image]][coverage-url]
 [![Code Climate][climate-image]][climate-url]
 [![License][license-image]][license-url]
-[![Code Style][code-style-image]][code-style-url]
+[![Code Style][code-style-image]][code-style-url]-->
 
 
 ## Table of Contents
