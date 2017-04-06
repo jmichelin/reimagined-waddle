@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "master": "react-redux-playground",
+    "stage": "react-redux-playground",
+    "prod": "react-redux-playground",
+    "default": "react-redux-playground"
+  }
+}
